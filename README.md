@@ -1,4 +1,4 @@
-# Halo 👋 aku Ahdian!
+### Halo 👋 aku Ahdian!
 
 Saya seorang **Mahasiswa** di **IPB University** jurusan **Teknik Komputer**.\
 Saya sedang mengikuti program Studi Independen Kampus Merdeka pada bidang **Machine Learning and Front-End Web Development** di [Dicoding](https://www.dicoding.com/).\
