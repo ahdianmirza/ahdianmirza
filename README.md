@@ -1,9 +1,9 @@
-### Halo 👋 aku Ahdian!
+### Halo 👋 saya Ahdian!
 
-Aku seorang **Mahasiswa** di **IPB University** jurusan **Teknik Komputer**.\
-Aku sedang mengikuti program Studi Independen Kampus Merdeka pada bidang **Machine Learning and Front-End Web Development** di [Dicoding](https://www.dicoding.com/).\
-Aku memiliki kemampuan bahasa pemrograman HTML dan CSS dibuktikan dengan [sertifikasi dari Codepolitan](https://www.codepolitan.com/c/PSOVOM5/) dan Python dibuktikan dengan [sertifikasi dari Progate](https://progate.com/course_certificate/9a816d3bqmewv5).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahdianmirza/).
+Saya seorang **Mahasiswa** di **IPB University** jurusan **Teknologi Rekayasa Komputer**.\
+Saya memiliki pengalaman di dunia Web Developer selama 1 tahun. Saya pernah menghandle beberapa project terkait dengan Front-End maupun Back-End.\
+Project yang belakangan ini saya handle adalah project website yang terintegrasi dengan IoT.\
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahdianmirza/).
 
 <p align="left">
 <a href="https://github.com/ahdianmirza">
